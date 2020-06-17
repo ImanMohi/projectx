@@ -1,0 +1,28 @@
+.box{
+    height:10em;
+    width: 10em;
+}
+
+.red{
+    position: absolute;
+    background: red;
+    height: 5em;
+    width: 5em;
+}
+
+.blue{
+    background: blue;
+}
+
+.green{
+    position: relative;
+    background: greenyellow;
+}
+
+.purple{
+    background: magenta;
+}
+
+.border-yellow{
+    border: 5px solid gold;
+}
